@@ -1,2 +1,3 @@
 First file editing
+editing to see git checkout .
 
